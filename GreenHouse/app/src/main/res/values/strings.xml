@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">GreenHouse</string>
+    <string name="Topic_1">潜在危害</string>
+    <string name="Topic_2">净化方案</string>
+    <string name="Topic_3">绿意满屋</string>
+    <string name="Topic_4">匠心养护</string>
+    <string name="Topic_5">更多创意</string>
+    <string name="title_activity_scrolling_activity__wei_hai">ScrollingActivity_WeiHai</string>
+    <string name="large_text">
+        "\n\n吸烟产生的尼古丁\n"
+        "房屋装修后散发的甲醛\n"
+        "房屋装修后散发的甲苯\n"
+        "建筑粉尘"
+    </string>
+    <string name="large_text_jingHua">
+        "自然通风\n"
+        "绿色植物\n"
+        "空气净化器"
+    </string>
+
+     <string name="large_text_flowers">
+"君子兰：释放氧气，吸收烟雾，保持空气清新                    \n"
+"非洲茉莉：有效杀菌，使人放松，助于睡眠                        \n"
+"铁线蕨：吸收甲醛，抑制二甲苯和甲苯  \n"
+"常春藤：吸收甲醛的冠军，还能吸附微粒灰尘                      \n"
+"鸭脚木：吸收尼古丁等  \n"
+    </string>
+    <string name="large_text_jiangxin">
+    "了解植物特性和喜好\n"
+    "喜阳的植物向阳放置，喜阴的植物则要背光放置\n"
+    "总之，因物制宜，查颜观色\n"
+    </string>
+
+
+    <string name="large_text_more">
+    "关于家庭绿化，除了以上的方案，还有很多好玩的点子，这里仅从鱼菜共生角度进行展开，如有其他点子，可在下面留言"
+    </string>
+
+    <string name="msg_feedback">"请输入你的留言\n"
+        </string>
+    <string name="action_settings">Settings</string>
+
+</resources>
